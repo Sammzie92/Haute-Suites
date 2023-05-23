@@ -1,16 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2395633b-20b6-4285-a894-014078a99b11" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/blog-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contact.html" afterDir="false" />
+    <list default="true" id="2395633b-20b6-4285-a894-014078a99b11" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/attributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/android-chrome-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/705f90e9-e15c-49df-a732-2ec263d70292.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/a34b9a10-4b2d-4428-b36f-9f50788b6c25.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bibhash-polygon-cafe-banerjee-wCnZ1Gn9fSY-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/c8ee92de-44b8-4f5a-9a22-f5b0dc45ccc4.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/eye-for-ebony-UzomZB3cz-I-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pexels-antoni-shkraba-production-8374345.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pexels-godisable-jacob-977539.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pexels-picha-6210505.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pexels-sanjeed-quazi-7734639.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logo/sammzie-prod.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logo/white-transparent.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vid/WhatsApp Video 2023-05-21 at 19.01.48.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rooms.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/rooms.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo/sammzie-prod-high-resolution-logo-white-on-black-background.jpeg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,15 +39,20 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2QCwWAeXFsjdclc7c54nIV0PwJm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "settings.editor.selected.configurable": "reference.settings.ide.settings.web.browsers"
   }
@@ -53,8 +73,17 @@
       <workItem from="1684870915286" duration="17000" />
       <workItem from="1684871427659" duration="19000" />
       <workItem from="1684873567481" duration="18000" />
-      <workItem from="1684873996531" duration="773000" />
+      <workItem from="1684873996531" duration="858000" />
+      <workItem from="1684875015094" duration="10340000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1684874832054</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684874832054</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,5 +99,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
