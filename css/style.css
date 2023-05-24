@@ -3610,7 +3610,14 @@ input[type="button"].btn-block {
   .navbar-expand-lg > .container,
   .navbar-expand-lg > .container-fluid {
     padding-right: 0;
-    padding-left: 0; } }
+    padding-left: 0; }
+  .navbar a img{
+      width: 145px;
+      height: 35px;
+  }
+
+}
+
 
 @media (min-width: 992px) {
   .navbar-expand-lg {
@@ -5674,6 +5681,12 @@ button.bg-dark:focus {
   -webkit-box-align: center !important;
   -ms-flex-align: center !important;
   align-items: center !important; }
+@media screen and (max-width: 844px){
+      .wrap{
+      display: none;
+    }
+
+}
 
 .align-items-baseline {
   -webkit-box-align: baseline !important;
@@ -8122,7 +8135,7 @@ h1, h2, h3, h4, h5,
       transition: all 0.5s ease-in-out 0s;
       z-index: -1; }
     .ftco-navbar-light .navbar-nav > .nav-item > .nav-link:hover {
-      color: #fd7792; }
+      color: #eda31b !important; }
       .ftco-navbar-light .navbar-nav > .nav-item > .nav-link:hover:before {
         visibility: visible;
         background-color: #fd7792;
@@ -8228,7 +8241,7 @@ h1, h2, h3, h4, h5,
   .hero-wrap .slider-text h1 {
     font-size: 80px;
     font-weight: 700;
-    color: #fff;
+    color: #e9e9e9;
     font-family: "Playfair Display", serif;
     line-height: 1.3;
     text-shadow: 0px 3px 25px rgba(0, 0, 0, 0.1); }
@@ -8239,10 +8252,21 @@ h1, h2, h3, h4, h5,
   .hero-wrap .slider-text h2.subheading {
     font-size: 18px;
     font-family: "Poppins", Arial, sans-serif;
-    font-weight: 300;
-    color: white;
+    font-weight: 600;
+    color: #FFFFFF;
     display: inline-block;
-    position: relative; }
+    position: relative;
+  }
+  @media screen and (max-width: 944px) {
+    .hero-wrap .slider-text h2.subheading{
+      background-image: linear-gradient(to right, #fff, #00ff00); /* Replace with your desired gradient colors */
+      -webkit-background-clip: text;
+      -moz-background-clip: text;
+      background-clip: text;
+      color: transparent;
+    }
+
+  }
   .hero-wrap .slider-text p {
     font-size: 18px;
     line-height: 1.5;
